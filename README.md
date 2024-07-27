@@ -13,8 +13,5 @@
 - PHP ( and Laravel )
 - JS ( learning VUEJS )
 - CSS ( multiple frameworks and raw css )
-
----
- SURNEX.NET | DEVELOPER
  
 ---
