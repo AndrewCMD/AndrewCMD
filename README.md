@@ -57,6 +57,9 @@
 - 🧑‍💼 Discord AndrewCMD
   
 ---
+<p align="center">
+<img src="https://raw.githubusercontent.com/AndrewCMD/metrics/master/metrics.plugin.habits.charts.svg" width="600" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AndrewCMD&style=flat-square&color=blue" alt="Profile views" />
